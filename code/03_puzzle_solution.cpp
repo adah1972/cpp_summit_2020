@@ -1,6 +1,6 @@
-// g++ -O0 03_puzzle_solution.cpp
-// g++ -O1 03_puzzle_solution.cpp
-// g++ -O2 03_puzzle_solution.cpp
+// g++ -O0 03_puzzle_solution.cpp dont_optimize_away.cpp
+// g++ -O1 03_puzzle_solution.cpp dont_optimize_away.cpp
+// g++ -O2 03_puzzle_solution.cpp dont_optimize_away.cpp
 //
 
 #include <stdio.h>               // printf
